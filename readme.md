@@ -22,6 +22,6 @@ Web Developer
 Portfolio: http://www.webdevshelly.com
 
 Twitter: https://twitter.com/webDevShelly
-GitHub: https://github.com/michellejames
+GitHub: https://github.com/webDevShelly
 
 @webDevShelly
