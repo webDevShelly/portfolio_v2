@@ -125,7 +125,9 @@
 
 		.form-button.anim-destination {
 			display: inline-block;
-			overflow: hidden;
+			// Clip only top and bottom, so the wider hover text isn't cut off at the sides
+			overflow: visible;
+			clip-path: inset(0 -100vw);
 			padding-right: 0.5em;
 			font-size: 2em;
 		}
@@ -142,6 +144,8 @@
 			position: absolute;
 			white-space: nowrap;
 			top: 115%;
+			left: 50%;
+			transform: translateX(-50%);
 			content: attr(data-hover);
 		}
 
