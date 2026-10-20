@@ -94,9 +94,12 @@
 
 		textarea {
 			height: 20vh;
+			// Push the placeholder down so it lines up with the Name and E-Mail inputs
+			padding-top: 9px;
 
 			@media screen and (min-width: 900px) {
 				height: 30vh;
+				padding-top: calc(5vh - 0.6rem);
 			}
 		}
 
