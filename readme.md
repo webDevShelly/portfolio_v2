@@ -13,10 +13,10 @@
 </div>
 
 
-Copyright of &copy; 2018 @webDevShelly aka Michelle "Shelly" James. All rights reserved.
+Copyright of &copy; 2018 @webDevShelly aka Michele "Shelly" Graham. All rights reserved.
 -- 
 
-Michelle “Shelly" James
+Michele “Shelly” Graham
 Web Developer
 
 Portfolio: http://www.webdevshelly.com
